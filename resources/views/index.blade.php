@@ -42,10 +42,10 @@
 </style>
 </head>
 <body>
-   <div class="center">
+ <div class="center">
     <div class="content">
         <h1>Intropis</h1>
-        <p>By Ibnu Adbul Azis</p>
+        {{-- <p>By Ibnu Adbul Azis</p> --}}
     </div>
 </div>
 </body>
