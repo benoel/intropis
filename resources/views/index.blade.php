@@ -41,12 +41,12 @@
     }
 </style>
 </head>
-<body>
-   <div class="center">
-    <div class="content">
-        <h1>Intropis</h1>
-        <p>By Ibnu Abdul Azis</p>
+<Body>
+    <div class="center">
+        <div class="content">
+            <h1>Intropis</h1>
+            <p>By Ibnu Abdul Azis</p>
+        </div>
     </div>
-</div>
 </body>
 </html>
