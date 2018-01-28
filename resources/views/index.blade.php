@@ -51,6 +51,8 @@
     }
     .content{
         z-index: 99;
+        text-align: center;
+        color: #fff;
     }
 </style>
 </head>
@@ -58,6 +60,7 @@
     <div class="center">
         <canvas id="canvas-basic"></canvas>
         <div class="content">
+            <div style="font-size: 13px;">Coming Soon</div>
             <h1>Intropis</h1>
             <p>By Ibnu Abdul Azis</p>
         </div>
