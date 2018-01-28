@@ -41,7 +41,7 @@
     }
 </style>
 </head>
-<Body>
+<body>
     <div class="center">
         <div class="content">
             <h1>Intropis</h1>
